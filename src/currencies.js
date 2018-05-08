@@ -7,6 +7,10 @@ var CURRENCIES = [{
     symbol: 'btc',
     addressTypes: {prod: ['00', '05'], testnet: ['6f', 'c4']}
 },{
+    name: 'skycoin',
+    symbol: 'sky',
+    addressTypes: {prod: ['00', '05'], testnet: ['6f', 'c4']}
+},{
     name: 'bitcoincash',
     symbol: 'bch',
     addressTypes: {prod: ['00', '05'], testnet: ['6f', 'c4']}
